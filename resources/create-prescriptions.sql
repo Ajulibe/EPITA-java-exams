@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS PRESCRIPTIONS(id SERIAL, presc_id varchar(255), presc_ref_pat varchar(255), presc_code varchar(255), presc_days varchar(255));
